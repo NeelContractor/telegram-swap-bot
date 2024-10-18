@@ -1,4 +1,4 @@
-import axios, { AxiosHeaders } from "axios";
+import axios from "axios";
 
 const JUP_API_URL = 'https://quote-api.jup.ag/v6/';
 
